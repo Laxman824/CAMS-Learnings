@@ -1,5 +1,6 @@
 # CAMS-Learnings
 ###  NPTEL Course Financial institutions and markets
+https://nptel.ac.in/courses/110105121
 https://onlinecourses.nptel.ac.in/noc20_mg10/preview
 ### NPTEL COURSE  Risk managements 
 https://archive.nptel.ac.in/courses/110/107/110107128/
