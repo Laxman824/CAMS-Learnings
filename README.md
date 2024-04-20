@@ -1,5 +1,9 @@
 # CAMS-Learnings
 ###  NPTEL Course Financial institutions and markets
+
+## Financial institiuiosn and markets youtube playlist
+https://www.youtube.com/watch?v=88S1wZGfuqk&list=PLbRMhDVUMngcXR5rE7oKtbFwM3R9RBJUc
+
 https://nptel.ac.in/courses/110105121
 https://onlinecourses.nptel.ac.in/noc20_mg10/preview
 ### NPTEL COURSE  Risk managements 
